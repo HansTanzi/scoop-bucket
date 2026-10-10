@@ -10,7 +10,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/HansTanzi/RestGuard/releases/download/v0.1.1/RestGuard_0.1.1_x64.exe#/RestGuard.exe",
-            "hash": "254903e9e383989fc8665ec197f9af0c7052b0a93fe86697d5ca67f37111f919"
+            "hash": "28b6d48a762ac4b75757212d3ae11168f3a1cedcc5afc96a680690455c4b1b4a"
         }
     },
     "shortcuts": [
