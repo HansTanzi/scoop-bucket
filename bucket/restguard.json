@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A cross-platform break reminder that actually makes you rest",
     "homepage": "https://github.com/HansTanzi/RestGuard",
     "license": "MIT|Apache-2.0",
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/HansTanzi/RestGuard/releases/download/v0.1.0/RestGuard_0.1.0_x64.exe#/RestGuard.exe",
-            "hash": "89550007ef3c17d3280402e4ddfc8bcc73427d7fded20a2addf3cbeaf66fac1d"
+            "url": "https://github.com/HansTanzi/RestGuard/releases/download/v0.1.1/RestGuard_0.1.1_x64.exe#/RestGuard.exe",
+            "hash": "254903e9e383989fc8665ec197f9af0c7052b0a93fe86697d5ca67f37111f919"
         }
     },
     "shortcuts": [
